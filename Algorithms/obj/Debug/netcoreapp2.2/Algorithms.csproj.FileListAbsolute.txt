@@ -1,0 +1,12 @@
+D:\estudos\BinarySearch\Algorithms\obj\Debug\netcoreapp2.2\Algorithms.csproj.CoreCompileInputs.cache
+D:\estudos\BinarySearch\Algorithms\obj\Debug\netcoreapp2.2\Algorithms.AssemblyInfoInputs.cache
+D:\estudos\BinarySearch\Algorithms\obj\Debug\netcoreapp2.2\Algorithms.AssemblyInfo.cs
+D:\estudos\BinarySearch\Algorithms\bin\Debug\netcoreapp2.2\Algorithms.deps.json
+D:\estudos\BinarySearch\Algorithms\bin\Debug\netcoreapp2.2\Algorithms.runtimeconfig.json
+D:\estudos\BinarySearch\Algorithms\bin\Debug\netcoreapp2.2\Algorithms.runtimeconfig.dev.json
+D:\estudos\BinarySearch\Algorithms\bin\Debug\netcoreapp2.2\Algorithms.dll
+D:\estudos\BinarySearch\Algorithms\bin\Debug\netcoreapp2.2\Algorithms.pdb
+D:\estudos\BinarySearch\Algorithms\obj\Debug\netcoreapp2.2\Algorithms.dll
+D:\estudos\BinarySearch\Algorithms\obj\Debug\netcoreapp2.2\Algorithms.pdb
+D:\estudos\BinarySearch\Algorithms\bin\Debug\netcoreapp2.2\data.txt
+D:\estudos\BinarySearch\Algorithms\obj\Debug\netcoreapp2.2\Algorithms.csprojAssemblyReference.cache

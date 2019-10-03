@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\estudos\\BinarySearch\\Algorithms\\Algorithms.csproj": {}
+  },
+  "projects": {
+    "D:\\estudos\\BinarySearch\\Algorithms\\Algorithms.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\estudos\\BinarySearch\\Algorithms\\Algorithms.csproj",
+        "projectName": "Algorithms",
+        "projectPath": "D:\\estudos\\BinarySearch\\Algorithms\\Algorithms.csproj",
+        "packagesPath": "C:\\Users\\marcus.arruda\\.nuget\\packages\\",
+        "outputPath": "D:\\estudos\\BinarySearch\\Algorithms\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marcus.arruda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://azuldevops.pkgs.visualstudio.com/_packaging/azulframework/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
